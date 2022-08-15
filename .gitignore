@@ -1,0 +1,4 @@
+data/*
+!data/info.txt
+!data/mapping.csv
+result.gif
