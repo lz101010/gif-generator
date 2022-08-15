@@ -15,7 +15,11 @@ $ python generate-gif.py
 ```
 to produce `result.gif`. The PNG files will be appended in alphabetical order for a duration of 100 ms. 
 
+
+## Configuration
 To change the duration, pass an additional argument to the script, e.g.
 ```sh
 $ python generate-gif.py 500
 ```
+
+To render text over the images, edit `/data/mapping.csv`.
